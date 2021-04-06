@@ -1,3 +1,5 @@
+ $ jest problem-a
+
 FAIL problem-a/problem.spec.js
   ● Test suite failed to run
 
